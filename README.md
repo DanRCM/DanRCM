@@ -19,15 +19,15 @@ proyectos y mis intereses.
 
 ## Tecnologías que Uso
 
-- **Lenguajes**: JavaScript, Python, Java, C#
-- **Frameworks**: React, Django, Flask, Node.js
-- **Herramientas**: Git, Docker, AWS, VS Code
-- **Bases de Datos**: MySQL, PostgreSQL, MongoDB
+- **Lenguajes**: JavaScript, Python, Java, C
+- **Frameworks**: Selenium, Appium, Cypress, Playwright, Karate, Behave
+- **Herramientas**: Git, Docker, VS Code, Intellij
+- **Bases de Datos**: MySQL
 
 ## Proyectos
 
-### [Proyecto 1: Nombre del Proyecto](link-al-repositorio-del-proyecto)
-*Tecnologías: React, Node.js, MongoDB*
+### [Proyecto 1: TravelocityTesting]([link-al-repositorio-del-proyecto](https://github.com/DanRCM/TravelocityTesting))
+*Tecnologías: Java, Selenium, Allure, Maven
 
 Descripción breve del proyecto: Este proyecto es una aplicación web que permite [descripción corta del propósito]. Aprendí mucho sobre [desafío que resolviste o lo que aprendiste].
 
@@ -69,5 +69,3 @@ Enlace de la demo: [Demo en vivo](link-a-demo)
 ## Licencia 📜
 
 Este proyecto está licenciado bajo la [MIT License](LICENSE).
-
-* [Lista de tus proyectos]
