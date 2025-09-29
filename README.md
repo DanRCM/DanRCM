@@ -3,8 +3,11 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
 proyectos y mis intereses.
 ## Contenido
 * [Información personal](#información-personal)
-* [Proyectos](#proyectos)
 * [Intereses](#intereses)
+* [Tecnologías que Uso](#tecnologías-que-uso)
+* [Proyectos](#proyectos)
+* [Contacto](#contacto)
+
 ## Información personal
 * Nombre: [Daniel Cortez]
 * Ocupación: [TAE]
@@ -14,14 +17,14 @@ proyectos y mis intereses.
 ## Intereses
 * [Lista de tus intereses]
 
-## Tecnologías que Uso 🌱
+## Tecnologías que Uso
 
 - **Lenguajes**: JavaScript, Python, Java, C#
 - **Frameworks**: React, Django, Flask, Node.js
 - **Herramientas**: Git, Docker, AWS, VS Code
 - **Bases de Datos**: MySQL, PostgreSQL, MongoDB
 
-## Mis Proyectos 🚀
+## Proyectos
 
 ### [Proyecto 1: Nombre del Proyecto](link-al-repositorio-del-proyecto)
 *Tecnologías: React, Node.js, MongoDB*
