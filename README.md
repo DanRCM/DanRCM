@@ -60,7 +60,7 @@ Enlace de la demo: [Demo en vivo](link-a-demo)
 - **Proyecto 2**: Proyecto finalizado y publicado.
 - **Proyecto 3**: Prototipo, pendiente de pruebas.
 
-## Contacto 📬
+## Contacto
 
 - 📧 Correo institucional: [tucorreo@universidad.com](mailto:tucorreo@universidad.com)
 - 🌐 [Mi LinkedIn](enlace-a-tu-linkedin)
