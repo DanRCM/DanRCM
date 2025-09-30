@@ -32,7 +32,7 @@ proyectos y mis intereses.
 ### [Proyecto 1: TravelocityTesting](https://github.com/DanRCM/TravelocityTesting)
 *Tecnologías: Java, Selenium, Allure, Maven
 
-Descripción breve del proyecto: Este proyecto es una aplicación web que permite [descripción corta del propósito]. Aprendí mucho sobre [desafío que resolviste o lo que aprendiste].
+Descripción breve del proyecto: Este documento ofrece una descripción general completa del framework Allure 2.14.0, un sistema de informes de pruebas que transforma los resultados de ejecución de pruebas en informes HTML interactivos. El framework es compatible con múltiples frameworks de pruebas, como JUnit, XUnit, Cucumber y otros, mediante una arquitectura basada en plugins.
 
 
 ---
